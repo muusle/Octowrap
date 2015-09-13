@@ -6,8 +6,6 @@
     Synonym (token filter): http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/analysis-synonym-tokenfilter.html
     Analysis (analyzers, tokenizers): http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/analysis.html
     Nested type: http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/mapping-nested-type.html
-    Array type: http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/mapping-array-type.html
-    Path hirachy example: http://www.elasticsearch.org/guide/en/elasticsearch/guide/current/denormalization-concurrency.html#denormalization-concurrency
     Path hirachy example (StackOverflow): http://stackoverflow.com/questions/12117275/how-to-match-on-prefix-in-elasticsearch
     Indices APIs: http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/indices.html
     The definetive guide: http://www.elasticsearch.org/guide/en/elasticsearch/guide/current/index.html
@@ -20,11 +18,9 @@
     Queries: http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/query-dsl-queries.html
     Highlighter: http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/search-request-highlighting.html
     Suggesters: http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/search-suggesters.html#glob'al-suggest
-    Index wordpress (tutorial): http://gibrown.com/2013/04/17/mapping-wordpress-posts-to-elasticsearch/
     Dynamic templates: http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/mapping-root-object-type.html#_dynamic_templates
     Full text search (nettus):http://code.tutsplus.com/tutorials/wordpress-full-text-search-with-elasticsearch--cms-20891
     Search as you type: http://www.elasticsearch.org/guide/en/elasticsearch/guide/current/_index_time_search_as_you_type.html
-    Faced navigation (tutorial): http://distinctplace.com/2014/07/29/build-zappos-like-products-facets-with-elasticsearch/
 
     @ Proxy/nginx
         Playing HTTP Tricks with Nginx: https://www.elastic.co/blog/playing-http-tricks-nginx
@@ -45,17 +41,14 @@
             Date range: https://www.elastic.co/guide/en/elasticsearch/reference/current/search-aggregations-bucket-daterange-aggregation.html
             Date histogram: https://www.elastic.co/guide/en/elasticsearch/reference/current/search-aggregations-bucket-datehistogram-aggregation.html
 
-    @  Sort/Order
+    @  Order
         Nested search with sorting: https://www.elastic.co/guide/en/elasticsearch/guide/master/nested-sorting.html
         Sort: http://www.elastic.co/guide/en/elasticsearch/reference/current/search-request-sort.html
         Alfabetic order trick: http://www.elastic.co/guide/en/elasticsearch/guide/current/multi-fields.html
 
-
     @ Setup
         Playing HTTP Tricks with Nginx (official, oktober-2014): https://www.elastic.co/blog/playing-http-tricks-nginx/
         Securing ElasticSearch (juli-2014): http://brudtkuhl.com/securing-elasticsearch/
-        Pusher modellen: https://pusher.com/docs/authenticating_users
-        Forum thread A (2011): http://elasticsearch-users.115913.n3.nabble.com/Recommended-setup-for-javascript-client-amp-elasticsearch-backend-td3264199.html
 
     @ Analysis
         Tokenfilters: http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/analysis-tokenfilters.html
@@ -80,9 +73,6 @@
         API: http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/indices-put-mapping.html
         @ Fields
             _source: http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/mapping-source-field.html#mapping-source-field
-
-    @ Angular
-        Tutorial: http://blog.comperiosearch.com/blog/2013/10/24/instant-search-with-angularjs-and-elasticsearch/
 
     @ Autocomplete/suggest
         Quick and dirty autocomplete (tutorial): http://blog.qbox.io/quick-and-dirty-autocomplete-with-elasticsearch-completion-suggest

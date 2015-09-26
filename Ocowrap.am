@@ -1,5 +1,7 @@
 @ Elasticsearch
 
+    
+    Some more stuff: http://www.thisisawsome.com/es232
     Custom Analyzer: http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/analysis-custom-analyzer.html
     Normalization (token filter): http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/analysis-normalization-tokenfilter.html
     Stemmer (token filter): http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/analysis-stemmer-tokenfilter.html
